@@ -1,0 +1,5 @@
+HaTeX-meta
+
+If you want to use HaTeX-meta to generate HaTeX .Monad modules:
+1) Compile HaTeX-meta.
+2) Run it in a directory that contains the source of HaTeX, being the Text folder a subdirectory.

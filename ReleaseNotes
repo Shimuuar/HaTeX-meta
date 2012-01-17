@@ -1,0 +1,11 @@
+HaTeX-meta Release Notes
+-- From version 1.0.0
+
+>>> 1.1.0
+
+* Added the HaTeX pragma feature. More details in:
+http://deltadiaz.blogspot.com/2011/11/hatex-pragma.html
+
+>>> 1.0.0
+
+* First release of HaTeX-meta.
